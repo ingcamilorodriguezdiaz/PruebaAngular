@@ -3,6 +3,8 @@ export class Persona {
   nombre: string|undefined;
   estado:number|undefined;
   apellido:string|undefined;
+  updated_at: Date|undefined;
+  created_At: Date | undefined;
   constructor(){
 
   }
