@@ -5,6 +5,7 @@ export class Persona {
   apellido:string|undefined;
   updated_at: Date|undefined;
   created_At: Date | undefined;
+  cedula:string |undefined;
   constructor(){
 
   }
